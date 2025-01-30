@@ -1,0 +1,101 @@
+ <html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Transform your life with personalized wellness coaching and stress management workshops. Explore services tailored to boost your mental and physical health.">
+    <meta name="keywords" content="wellness coaching, stress management, employee wellness, personal growth, mindfulness, stress reduction">
+    <meta name="author" content="Shreya Sanghvi">
+    <title>Shreya Sanghvi - Wellness & Personal Growth Expert</title>
+
+    <!-- Schema Markup (Organization) -->
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "name": "Shreya Sanghvi Wellness",
+            "url": "https://www.yoursite.com",
+            "logo": "https://www.yoursite.com/logo.png",
+            "sameAs": [
+                "https://www.facebook.com/yourpage",
+                "https://www.instagram.com/yourprofile"
+            ]
+        }
+    </script>
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#blog">Blog</a></li>
+            <li><a href="#contact">Contact</a></li>
+            <li><a href="#shop">Shop</a></li>
+        </ul>
+    </nav>
+</header>
+
+<section id="home">
+    <h1>Welcome to Shreya Sanghvi's Wellness Journey</h1>
+    <p>Transform your mental and physical health with personalized coaching and stress management solutions. Ready to take the next step?</p>
+    <a href="#contact" class="cta-button">Book Your Free Consultation Now</a>
+</section>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>Hi, I'm Shreya Sanghvi, your go-to wellness coach and stress management expert. With years of experience in helping professionals navigate the demands of work and life, I provide personalized coaching that suits your unique needs.</p>
+    <a href="#services" class="cta-button">Discover My Services</a>
+</section>
+
+<section id="services">
+    <h2>Services</h2>
+    <p>I offer a variety of wellness coaching services designed to help you thrive, both personally and professionally. Whether you're looking for one-on-one coaching or group wellness workshops, I have something for everyone.</p>
+    
+    <div class="service-item">
+        <h3>Personalized Wellness Coaching</h3>
+        <p>Customized plans to help you manage stress, boost productivity, and create a healthy work-life balance.</p>
+        <a href="#contact" class="cta-button">Start Your Wellness Journey</a>
+    </div>
+
+    <div class="service-item">
+        <h3>Employee Wellness Programs</h3>
+        <p>Help your team reduce stress, enhance performance, and foster a culture of wellness within your organization.</p>
+        <a href="#contact" class="cta-button">Learn More</a>
+    </div>
+
+    <div class="service-item">
+        <h3>Mindfulness & Stress Reduction Workshops</h3>
+        <p>Workshops designed to equip individuals and teams with powerful tools for reducing stress and boosting mindfulness.</p>
+        <a href="#contact" class="cta-button">Book a Workshop</a>
+    </div>
+</section>
+
+<section id="blog">
+    <h2>Blog</h2>
+    <p>Stay updated with the latest tips on wellness, mindfulness, and stress management. Explore my blog for valuable insights.</p>
+    <a href="/blog" class="cta-button">Visit the Blog</a>
+</section>
+
+<section id="contact">
+    <h2>Contact</h2>
+    <p>Have questions or ready to start your wellness journey? Reach out to me today!</p>
+    <a href="mailto:contact@shreyasanghvi.com" class="cta-button">Email Me</a>
+</section>
+
+<section id="shop">
+    <h2>Shop</h2>
+    <p>Check out my wellness products to enhance your personal growth journey.</p>
+    <a href="/shop" class="cta-button">Shop Now</a>
+</section>
+
+<footer>
+    <p>&copy; 2025 Shreya Sanghvi. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
